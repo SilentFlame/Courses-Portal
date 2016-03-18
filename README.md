@@ -27,8 +27,8 @@ As an admin user:
 	speedy.rocks@gmail.com
 password:
 	speedis123
-
- #### some bugs ####
+	
+### Some Bugs ###
  * If there are too many courses then it might take some time to load the list of courses in add courses and home page.
  * Admin cannot view,edit the course from the manage page.
  * Currently Add Courses not working.
@@ -37,5 +37,7 @@ password:
 
  ### Team-Member ###
  * Aman Varshney
-
+ * Vinay Singh
+  
+ 
  ***
